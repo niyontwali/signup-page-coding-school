@@ -20,13 +20,13 @@ This repository contains the HTML, CSS, and JavaScript code for the sign-up page
 1. **Clone the repository** to your local machine:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/niyontwali/signup-page.git
    ```
 
 2. **Open the file** in your preferred browser to view the form layout and functionality.
 
    ```bash
-   open signup.html
+   open index.html
    ```
 
 3. **Test the Form**: 
